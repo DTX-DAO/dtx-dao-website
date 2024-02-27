@@ -12,8 +12,8 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'H-Town DAO',
-  description: "To unlock Houston's Web3 community potential",
+  title: 'DTX DAO',
+  description: "To unlock Dallas Web3 excellence.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

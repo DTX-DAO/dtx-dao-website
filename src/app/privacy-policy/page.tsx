@@ -1,22 +1,22 @@
 const PrivacyPolicy = () => {
   return (
     <div className=" mx-auto p-4">
-      <h2 className="text-2xl font-semibold text-blue-500 mb-4 text-center">Privacy Policy for H-Town DAO Website</h2>
+      <h2 className="text-2xl font-semibold text-blue-500 mb-4 text-center">Privacy Policy for DTX DAO Website</h2>
       <p className="mb-2">
         <strong>Effective Date:</strong> 2024/02/13
       </p>
       <h3 className="text-xl font-semibold text-blue-500 mb-2">Introduction</h3>
       <p className="mb-4">
-        Welcome to H-Town DAO. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you about how we look after your personal data when you visit
-        our website htowndao.xyz and tell you about your privacy rights and how the law protects you.
+        Welcome to DTX DAO. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you about how we look after your personal data when you visit
+        our website dtxdao.com and tell you about your privacy rights and how the law protects you.
       </p>
       <h3 className="text-xl font-semibold text-blue-500 mb-2">1. Important Information and Who We Are</h3>
       <p className="mb-4">
-        <strong>Purpose of This Privacy Policy:</strong> This privacy policy aims to give you information on how H-Town DAO collects and processes your personal data through your use of this website,
+        <strong>Purpose of This Privacy Policy:</strong> This privacy policy aims to give you information on how DTX DAO collects and processes your personal data through your use of this website,
         including any data you may provide through this site when you sign up, contribute, or participate in our discussions.
       </p>
       <p className="mb-4">
-        <strong>Controller:</strong> H-Town DAO is the controller and responsible for your personal data.
+        <strong>Controller:</strong> DTX DAO is the controller and responsible for your personal data.
       </p>
       <p className="mb-4">
         <strong>Contact Details:</strong> If you have any questions about this privacy policy or our privacy practices, please contact us at [insert email address].

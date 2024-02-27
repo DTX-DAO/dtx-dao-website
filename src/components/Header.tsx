@@ -32,7 +32,7 @@ const Header: React.FC = () => {
     <div className="header flex flex-col">
       <div className="flex justify-between items-center w-full mx-auto relative">
         <Link onClick={toggleMenu} className="lg:w-1/3 w-1/2" href="/">
-          <img src="/htowndao-logo.png" alt="" />
+          <img src="/dtx-dao.png" alt="" />
         </Link>
 
         <div className="flex items-center">

@@ -64,8 +64,10 @@ const Schedule = () => {
           <>
             <div className="flex text-3xl pt-10 justify-center">DAO Contributors</div>
             <div className="pt-5 pb-5">
-              <BioSection title={info.team.giorgio.name} imageUrl={info.team.giorgio.image} description={info.team.giorgio.bio} website={info.team.giorgio.website} />
-              <BioSection title={info.team.margaret.name} imageUrl={info.team.margaret.image} description={info.team.margaret.bio} />
+              <BioSection title={info.team.will.name} imageUrl={info.team.will.image} description={info.team.will.bio} />
+              <BioSection title={info.team.ki.name} imageUrl={info.team.ki.image} description={info.team.ki.bio} />
+              <BioSection title={info.team.flu.name} imageUrl={info.team.flu.image} description={info.team.flu.bio} website={info.team.flu.website} />
+              <BioSection title={info.team.tobalo.name} imageUrl={info.team.tobalo.image} description={info.team.tobalo.bio} website={info.team.tobalo.website} />
             </div>
           </>
         )}
@@ -73,16 +75,16 @@ const Schedule = () => {
           <>
             <div className="flex text-3xl pt-10 justify-center">DAO Supporters</div>
             <div className="pt-5 pb-5 flex w-auto justify-center gap-5">
-              <a href="https://spindletop.digital/" target="_blank" rel="noopener noreferrer" className="flex justify-center w-1/2">
-                <img src="/images/sponsors/spindletop.png" alt="" className="object-contain" />
+              <a href="https://fwtx.city" target="_blank" rel="noopener noreferrer" className="flex justify-center w-1/2">
+                <img src="/images/sponsors/fwtx-dao.png" alt="FWTX DAO" className="object-contain" />
               </a>
-              <a href="https://bitangels.network/" target="_blank" rel="noopener noreferrer" className="flex justify-center w-1/2">
-                <img src="/images/sponsors/bitangels.png" alt="" className="object-contain" />
+              <a href="https://texasblockchaincouncil.org/" target="_blank" rel="noopener noreferrer" className="flex justify-center w-1/2">
+                <img src="/images/sponsors/tbc.jpg" alt="Texas Blockchain Council" className="object-contain" />
               </a>
             </div>
             <div className="pt-5 pb-10 flex w-auto justify-center gap-5">
-              <a href="https://levelk.io/" target="_blank" rel="noopener noreferrer" className="flex justify-center w-1/2">
-                <img src="/images/sponsors/level_k.png" alt="LEVEL K" className="object-contain" />
+              <a href="https://yeetum.com" target="_blank" rel="noopener noreferrer" className="flex justify-center w-1/2">
+                <img src="/images/sponsors/yeetum.png" alt="Yeetum" className="object-contain" />
               </a>
               <a href="https://www.rocketnetwork.ai/" target="_blank" rel="noopener noreferrer" className="flex justify-center w-1/2">
                 <img src="/images/sponsors/rocket_network.png" alt="" className="object-contain" />

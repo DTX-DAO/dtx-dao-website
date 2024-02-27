@@ -1,15 +1,15 @@
 const info = {
   links: {
     instagram_link: 'https://www.instagram.com/htxweb3/',
-    telegram_link: 'https://t.me/+hW6kVk9ztU0zYmRh',
-    twitter_link: 'https://twitter.com/h_town_dao',
+    telegram_link: 'https://t.me/+EodABc3MssQ3Njgx',
+    twitter_link: 'https://twitter.com/dtxdao',
     ethereum_meetup_link: 'https://www.meetup.com/houstonethereum/',
     web3_meetup_link: 'https://www.meetup.com/htownweb3/',
-    github_link: 'https://github.com/h-town-dao',
+    github_link: 'https://github.com/dtxdao',
     google_interest_form: 'https://forms.gle/m1Wd5XqbzxZj46Zp9',
     google_speaker_form: 'https://forms.gle/bnD4ezvA2oMFwYCu7',
   },
-  mission_statement: "To unlock Houston's Web3 community potential",
+  mission_statement: "To unlock Dallas Web3 excellence.",
   schedule: {
     2023_06: {
       title: 'AWRE - Omar Ochoa - June and July',
@@ -55,17 +55,33 @@ const info = {
     },
   },
   team: {
-    giorgio: {
-      name: 'Giorgio Villani',
-      bio: 'As the founder of Spindletop Digital, a cutting-edge software development company, Giorgio specializes in creating web3 applications and providing expert advice on web3-related matters. His innovative spirit has led him to co-found multiple web3 ventures, including Fair Bid, and he has played a pivotal role in tokenizing a prestigious Italian hotel on Lake Como.',
-      image: '/images/team/giorgio.jpg',
+    tobalo: {
+      name: "Tobalo Torres-Valderas",
+      bio: "Chief Architect & Strategist",
+      image: 'https://tobalo.me/img/avatar.png',
+      website: 'https://tobalo.me',
+      email: 'info@yeetum.com'
+    },
+    will: {
+      name: 'Will Up Top',
+      bio: 'As the founder of DTX Collective, I love angel investing, recruiting, NFTs and stonks.',
+      image: '/images/team/will.jpg',
       website: 'https://spindletop.digital',
       email: 'info@spindletop.digital',
     },
-    margaret: {
-      name: 'Margaret Passe',
-      bio: 'Margaret Passe is mathematician and finance professional with diverse background in auditing, compliance and regulatory fields which encompasses higher education, telecommunication as well as Web3 and quantum computing space. She is currently the co-organizer of Houston Web3, AI and NFT community and contributor to the H-Town DAO. Her focus is to offer unparalleled and diversified Web3 education and networking opportunities to greater Houston community on blockchain technology and it’s far reaching applicability. This focus extends to working with Ion District as well as local and state business and political leaders on positioning Houston’s talent to be prominent participant on the world’s blockchain stage.',
-      image: '/images/team/margaret.jpg',
+    ki: {
+      name: 'Ki',
+      bio: 'As the founder of DTX Collective, I am Chief Solana man. I love NFTs and stonks.',
+      image: '/images/team/ki.jpg',
+      website: 'https://spindletop.digital',
+      email: 'info@spindletop.digital',
+    },
+    flu: {
+      name: 'Flu',
+      bio: 'As the founder of DTX Collective, I am OG token man.',
+      image: '/images/team/flu.jpg',
+      website: 'https://platform.arkhamintelligence.com/explorer/address/0xD511Af7e71a290aaef9e9D4Bc1E168e2293fA2c4',
+      email: 'info@spindletop.digital',
     },
   },
 };
