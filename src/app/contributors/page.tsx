@@ -68,6 +68,7 @@ const Schedule = () => {
               <BioSection title={info.team.ki.name} imageUrl={info.team.ki.image} description={info.team.ki.bio} />
               <BioSection title={info.team.flu.name} imageUrl={info.team.flu.image} description={info.team.flu.bio} website={info.team.flu.website} />
               <BioSection title={info.team.tobalo.name} imageUrl={info.team.tobalo.image} description={info.team.tobalo.bio} website={info.team.tobalo.website} />
+              <BioSection title={info.team.mark.name} imageUrl={info.team.mark.image} description={info.team.mark.bio} />
             </div>
           </>
         )}

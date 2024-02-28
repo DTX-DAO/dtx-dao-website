@@ -57,7 +57,7 @@ const info = {
   team: {
     tobalo: {
       name: "Tobalo Torres-Valderas",
-      bio: "Chief Architect & Strategist",
+      bio: "Within the founding group I serve as Chief Architect & Strategist",
       image: 'https://tobalo.me/img/avatar.png',
       website: 'https://tobalo.me',
       email: 'info@yeetum.com'
@@ -83,6 +83,12 @@ const info = {
       website: 'https://platform.arkhamintelligence.com/explorer/address/0xD511Af7e71a290aaef9e9D4Bc1E168e2293fA2c4',
       email: 'info@spindletop.digital',
     },
+    mark: {
+      name: 'Web3 Ready',
+      bio: 'In the founding group I make sure Dallas is Web3 ready.',
+      image: '/images/team/mark.jpg',
+      website: 'https://texasblockchain.org',
+      email: 'info@spindletop.digital',
   },
 };
 
