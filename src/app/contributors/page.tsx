@@ -79,9 +79,9 @@ const Schedule = () => {
               <a href="https://fwtx.city" target="_blank" rel="noopener noreferrer" className="flex justify-center w-1/2">
                 <img src="/images/sponsors/fwtx-dao.png" alt="FWTX DAO" className="object-contain" />
               </a>
-              {/* <a href="https://texasblockchaincouncil.org/" target="_blank" rel="noopener noreferrer" className="flex justify-center w-1/2">
+              <a href="https://texasblockchaincouncil.org/" target="_blank" rel="noopener noreferrer" className="flex justify-center w-1/2">
                 <img src="/images/sponsors/tbc.jpg" alt="Texas Blockchain Council" className="object-contain" />
-              </a> */}
+              </a>
             </div>
             <div className="pt-5 pb-10 flex w-auto justify-center gap-5">
               <a href="https://yeetum.com" target="_blank" rel="noopener noreferrer" className="flex justify-center w-1/2">
