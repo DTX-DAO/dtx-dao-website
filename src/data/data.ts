@@ -5,9 +5,9 @@ const info = {
     twitter_link: 'https://twitter.com/dtxdao',
     ethereum_meetup_link: 'https://www.meetup.com/houstonethereum/',
     web3_meetup_link: 'https://www.meetup.com/htownweb3/',
-    github_link: 'https://github.com/dtxdao',
-    google_interest_form: 'https://forms.gle/m1Wd5XqbzxZj46Zp9',
-    google_speaker_form: 'https://forms.gle/bnD4ezvA2oMFwYCu7',
+    github_link: 'https://github.com/DTX-DAO',
+    google_interest_form: 'https://pf2earz35qh.typeform.com/to/T9ICEHnN',
+    google_speaker_form: 'https://pf2earz35qh.typeform.com/to/T9ICEHnN',
   },
   mission_statement: "To unlock Dallas Web3 excellence.",
   schedule: {
