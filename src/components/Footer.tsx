@@ -15,9 +15,6 @@ const Footer: React.FC = () => {
         <div><a href='https://yeetum.com/contact'>Managed By Eden Advisory</a></div>
       </div>
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-1">
-        <a href={info.links.instagram_link} target="_blank" rel="noopener noreferrer">
-          <img src="./instagram.svg" alt="instagram" className="max-w-5 max-h-5 mr-2" />
-        </a>
         <a className="" href={info.links.twitter_link} target="_blank" rel="noopener noreferrer">
           <img src="./x.png" alt="x twitter" className="max-w-5 max-h-5" />
         </a>
